@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Debabrata Dutta</h1></summary>
   </ul>
 </div>
 
@@ -25,17 +25,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Firebase, Flutter, Python, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **Python Mechine Learning**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Flutter, Rest Api, Firebase, Push Notification, SQL Lite**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **debabratadutta521@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
