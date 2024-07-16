@@ -52,7 +52,7 @@ I get to know about many latest technologies and developed various Mobile Applic
  <img alt="Debabrata Dutta's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=StarDustDivine7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 
-<a href="https://github.com/StarDustDivine7 /StarDustDivine7 ">
+<a href="https://github.com/StarDustDivine7/StarDustDivine7 ">
  <img alt="Debabrata Dutta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarDustDivine7&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
  </a>
 
