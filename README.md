@@ -11,7 +11,7 @@
 I get to know about many latest technologies and developed various Mobile Application and Web Application. I am currently working as a Flutter developer in Webingo Infotech Solution in Kolkata, India. I am very passionate on learning new technologies and building great ui and ux for the users.
 
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently Working Flutter.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2025 Goals: Learning AI and ML.
 - ⚡ Fun fact: As a developer you never stop learning.
