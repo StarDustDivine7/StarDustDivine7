@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
- [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/dheeraj-sharma-5b3a5116a](https://www.linkedin.com/in/debabrata-dutta-b10b91316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+ [![Linkedin]([https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/dheeraj-sharma-5b3a5116a](https://www.linkedin.com/in/debabrata-dutta-b10b91316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/debabrata-dutta-b10b91316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:debebratadutta521@gmail.com)
 
 ## As a Flutter Developer !!
@@ -46,6 +46,25 @@ I get to know about many latest technologies and developed various Mobile Applic
 
 <br />
 <br />
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dexzter07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
+</p>
+
+---
+
+### ☕ Buy Me a Coffee
+
+If you like what I do and want to support my work, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/dexztercodes" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+
+
+
 
 ## 📈 Github Stats
 <a href="https://github.com/StarDustDivine7/StarDustDivine7 ">
