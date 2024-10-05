@@ -57,11 +57,8 @@ I get to know about many latest technologies and developed various Mobile Applic
 
 ### ☕ Buy Me a Coffee
 
-If you like what I do and want to support my work, consider buying me a coffee!
+If you like what I do and want to support my work, consider buying me a coffee!(Comeing Soon)
 
-<a href="https://buymeacoffee.com/dexztercodes" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-</a>
 
 
 
