@@ -57,7 +57,7 @@ I get to know about many latest technologies and developed various Mobile Applic
 
 ### ☕ Buy Me a Coffee
 
-If you like what I do and want to support my work, consider buying me a coffee! (Coming Soon)
+If you like what I do and want to support my work, consider buying me a coffee! (This page is under construction!)
 
 
 
