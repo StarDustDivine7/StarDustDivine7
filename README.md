@@ -50,7 +50,7 @@ I get to know about many latest technologies and developed various Mobile Applic
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dexzter07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
+  <img src="https://github-profile-trophy.vercel.app/?username=StarDustDivine7&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
 </p>
 
 ---
